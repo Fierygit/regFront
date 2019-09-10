@@ -1,3 +1,8 @@
+  初始的想法是做一个报名的小网站，后来做着做着后台就做成了一个
+就成了一个个人网站的模式。
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
